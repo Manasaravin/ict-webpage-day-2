@@ -1,0 +1,30 @@
+body{
+    background-image: url(images/avenue-815297_1280.jpg);
+    background-size: cover;
+}
+header{
+    background-color: rgb(1, 15, 11);
+}
+#rose{
+    margin-left: 10%;
+}
+.navigation{
+    float: right;
+    margin-top: 50px;
+    margin-right: 10px;
+}
+.navigation a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    text-decoration: none;
+    border: 2px solid cornflowerblue;
+    padding: 5px;
+}
+.navigation a:hover{
+    background-color: brown;
+    color: aqua;
+}
+
+    
+    
+
